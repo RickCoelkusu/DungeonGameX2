@@ -1,0 +1,1 @@
+For optimum results, consider adding the "Fast Bloom" image effect to the camera (found under Image Effects -> Bloom and Glow -> Bloom). Some suggested bloom settings can be found in the BloomSettings.tif image.

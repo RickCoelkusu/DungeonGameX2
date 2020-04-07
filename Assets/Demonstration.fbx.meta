@@ -1,0 +1,370 @@
+fileFormatVersion: 2
+guid: 7c5752227bcbbdb4cafcbea8bce83ba9
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Bed_Inst
+    second: {fileID: 2100000, guid: afb8e2d7ae7c034438d4a640353278cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_BrickFloor_Clean_Inst
+    second: {fileID: 2100000, guid: 2875c63dcbd0fac42898eb04137f0e15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CandleHolder_Bronze_Inst
+    second: {fileID: 2100000, guid: d6f780ac356e2994192a363bfffee0fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CandleHolder_Iron_Inst
+    second: {fileID: 2100000, guid: f37df97e9a807b94993038de2b94ba73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CandleStick_Iron_Inst
+    second: {fileID: 2100000, guid: 6cbbdae92995c3343a10af8aa8a56531, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Candle_Holder_Inst
+    second: {fileID: 2100000, guid: e6def74dfe4900b4da4812d8b218edc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Candles_Inst
+    second: {fileID: 2100000, guid: 72727b5fa22d67b448dd79b2e8748959, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Ceiling_Arch_Inst
+    second: {fileID: 2100000, guid: 69c1f90743a106d4e863d98c989388d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Cell_Door_Front_Inst
+    second: {fileID: 2100000, guid: 24cb264e6e7574e4182127bb882fcfeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Cell_Side_Inst
+    second: {fileID: 2100000, guid: c3a93de9f599c5c489979660d2f58b1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Chains_Inst
+    second: {fileID: 2100000, guid: 85a0539b573b78540b0a3006d44103a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Chandlier_Inst
+    second: {fileID: 2100000, guid: 269521ad793fe364e9e548ce0ffb681d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Coffin_Inst
+    second: {fileID: 2100000, guid: a542e9ddf1d303245b6e5f026bd3a89c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Crypt_Wall_Decorative_A_Inst
+    second: {fileID: 2100000, guid: 0c0013f29b3209949a810132e7c59924, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Crypt_Wall_Decorative_B_Inst
+    second: {fileID: 2100000, guid: 1b439556f4c6cd845b7733f7ec11cf43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Crypt_Wall_Decorative_C_Inst
+    second: {fileID: 2100000, guid: 224037cac5cd7014ba014b1b95b8aa69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Crypt_Wall_Decorative_D_Inst
+    second: {fileID: 2100000, guid: 81cd679b489dc3f43ae5dda94d5e4efc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Decorative_Arches_Inst
+    second: {fileID: 2100000, guid: b945e76eebb8bc543b68f60609c39d66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Dirt_Mounds_Inst
+    second: {fileID: 2100000, guid: be1fc979832f24b4f81c7bb11e9f3bb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Door_Hardware_Inst
+    second: {fileID: 2100000, guid: e67b63af6cd148541a24998bb9243459, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Doorway_Large_Left_Door_Inst
+    second: {fileID: 2100000, guid: cffe783fe3a62d044b97fd03c0cae895, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Doorway_Large_Right_Door_Inst
+    second: {fileID: 2100000, guid: b5587490adaff3d46b24df76ae39b16a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Dungeon_Wall_Decorative_A_Inst
+    second: {fileID: 2100000, guid: 046c03a4143248a4e8eb1f3837cb3a0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Edge_Stones_Inst
+    second: {fileID: 2100000, guid: 4756db7376df48f44b8152dcda81b661, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Fire_Pit_Inst
+    second: {fileID: 2100000, guid: 93f3d3543cac6a44486451f77d948e49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Gargoyle_Inst
+    second: {fileID: 2100000, guid: a88b477c42c68dd47b4c7b800bae0967, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Gargoyle_Stand_Inst
+    second: {fileID: 2100000, guid: b16105a2ae0eecd4b9b8445a383a3a86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Gibbet_Cage_Inst
+    second: {fileID: 2100000, guid: 8c8b4362c3990fa499471b29b168d5aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Half_Arch_Inst
+    second: {fileID: 2100000, guid: 5b42616039478e649a5253f9a04cb8f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Large_Window_Half_Inst
+    second: {fileID: 2100000, guid: fd46b128413adcc4498b89a95420bff7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Log_Inst
+    second: {fileID: 2100000, guid: 97fb9b8b28cf5a74ba102f19584ac605, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Mausoleum_Ceiling_Inst
+    second: {fileID: 2100000, guid: d758e761a5f9a604a9ac1ab1b7a9e244, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Mausoleum_Part_A_Inst
+    second: {fileID: 2100000, guid: 664c73d10c97669408bbabf2c8606de9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Mausoleum_Part_B_Inst
+    second: {fileID: 2100000, guid: fa43e1292f1d87c41b5b24175a08f9c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Metal_Decor_Inst
+    second: {fileID: 2100000, guid: be6e6f0efef0af347ab350aada4233a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Pillar_Inst
+    second: {fileID: 2100000, guid: 0249125cdefe0c348b45f700c04a7a79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Pots_Inst
+    second: {fileID: 2100000, guid: 2fbe334921387a34fa659f16afd6b63d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Skeleton_Dirty
+    second: {fileID: 2100000, guid: 18c69d7a61984dd40ba7dd364fcafb88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Sky_Panning_Clouds2
+    second: {fileID: 2100000, guid: 3d7bac7739dd51244ad709152e632e98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Small_Window_Inst
+    second: {fileID: 2100000, guid: f640282956826bd4d803df4a23480dbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Stairs_10_Inst
+    second: {fileID: 2100000, guid: a6c0c75ea5e5ace4bb744ff01daa9e85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Statue
+    second: {fileID: 2100000, guid: c40943751b09ea549b86f1d98d3e60d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Statue_Stand_Inst
+    second: {fileID: 2100000, guid: d030754c7c260134facab337f9de0d6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Stocks_Inst
+    second: {fileID: 2100000, guid: b87a505afdd0a9e4dbbe4f0c2c306d90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_StoneWall_Inst
+    second: {fileID: 2100000, guid: 1e999c89e8f641146a6fc8d685238570, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Stone_Altar_Inst
+    second: {fileID: 2100000, guid: 3327b53f384e8a948814acba6df295ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Stone_Coffin_Inst
+    second: {fileID: 2100000, guid: 688f1b130c711ad438e2a00d5daae863, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Table_Inst
+    second: {fileID: 2100000, guid: 4437787bdc844e64397c70bfd128d36c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Tiling_Plaster_Inst
+    second: {fileID: 2100000, guid: f8245800f53abce4cae507c1ca5a08e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Torch_Inst
+    second: {fileID: 2100000, guid: a774263cc4cb6ac478f3db15beb23f4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Torture_Chair_Inst
+    second: {fileID: 2100000, guid: ab1c71a7c70883b408207612a8d783d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Wood_Inst
+    second: {fileID: 2100000, guid: 71beaf73a89a6704e96a4b3c581df13f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: a627628397a15984a89caf6bd572f90c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WorldGridMaterial
+    second: {fileID: 2100000, guid: 7137b89411b9a854eba330c4879555aa, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.0625
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
